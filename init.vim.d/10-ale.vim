@@ -1,0 +1,5 @@
+let g:ale_sign_error = '◆'
+let g:ale_sign_warning = '◇'
+let g:ale_sign_info = '𝓲'
+let g:ale_sign_style_error = '⇝'
+let g:ale_sing_style_warning = '⇢'
