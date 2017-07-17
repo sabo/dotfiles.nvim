@@ -14,7 +14,6 @@ I use [vim-plug](https://github.com/junegunn/vim-plug) to manage my plugins.
 * [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes): themes for airline
 * [vim-mundo](https://github.com/simnalamburt/vim-mundo): Visualize the undo tree
 * [deoplete.nvim](https://github.com/Shougo/deoplete.nvim): Completion engine, like YCM
-* [Auto-pairs](https://github.com/jiangmiao/auto-pairs): autoclose brackets.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive): git wrapper
 * [vim-rhubarb](https://github.com/tpope/vim-rhubarb): Github integration for vim-fugitive
 * [vim-signify](https://github.com/mhinz/vim-signify): Faster, async replacement for gitgutter

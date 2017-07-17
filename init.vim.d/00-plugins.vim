@@ -24,7 +24,7 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'Shougo/deoplete.nvim'
 
 " Auto_pairs: autoclose brackets.
-Plug 'jiangmiao/auto-pairs'
+" Plug 'jiangmiao/auto-pairs'
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " EXTERNAL TOOL INTEGRATION
