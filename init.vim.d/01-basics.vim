@@ -52,8 +52,12 @@ set ruler
 set laststatus=2 " always show statusbar
 set noshowmode 
 
-"Syntax coloring
+" Syntax coloring
 syntax on
 set nocursorcolumn
 set nocursorline
 syntax sync minlines=256
+
+" Make splits open on a more natural side
+set splitbelow
+set splitright
