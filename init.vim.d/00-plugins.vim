@@ -23,9 +23,6 @@ Plug 'simnalamburt/vim-mundo'
 " Deoplete: Completion engine, like YCM
 Plug 'Shougo/deoplete.nvim'
 
-" Auto_pairs: autoclose brackets.
-" Plug 'jiangmiao/auto-pairs'
-
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " EXTERNAL TOOL INTEGRATION
 
