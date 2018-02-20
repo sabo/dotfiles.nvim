@@ -71,5 +71,5 @@ Plug 'Glench/Vim-Jinja2-Syntax'
 Plug 'sheerun/vim-polyglot'
 
 " DBExt: DB extensions
-Plug 'vim-scripts/dbext.vim'
+" Plug 'vim-scripts/dbext.vim'
 call plug#end()
