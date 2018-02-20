@@ -55,6 +55,9 @@ Plug 'Vimjas/vim-python-pep8-indent'
 " Deoplete_Rust: Rust completion for Deoplete. Uses RACER (cargo install racer)
 Plug 'sebastianmarkow/deoplete-rust'
 
+" Deoplete_Jedi: python completion
+Plug 'zchee/deoplete-jedi'
+
 " Vim_javascript: JS syntax handling
 Plug 'pangloss/vim-javascript'
 
