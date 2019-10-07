@@ -78,4 +78,11 @@ Plug 'sheerun/vim-polyglot'
 
 " DBExt: DB extensions
 " Plug 'vim-scripts/dbext.vim'
+
+" Salt-vim: Saltstack support
+Plug 'saltstack/salt-vim'
+
+" Puppet-vim: Puppet support
+Plug 'rodjek/vim-puppet'
+
 call plug#end()
