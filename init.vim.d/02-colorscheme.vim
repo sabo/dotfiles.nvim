@@ -1,10 +1,7 @@
 set termguicolors
-colorscheme NeoSolarized
-set background=dark
+colorscheme base16-default-dark
+let base16colorspace=256
 
 " for normally invisible charaters displayed with
 " :set list, use a lower-contrast colorscheme
 let g:neosolarized_visibility = "low"
-
-" Set default colorscheme to be higher contrast
-let g:neosolarized_contrast = "normal"

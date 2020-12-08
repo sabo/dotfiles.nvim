@@ -5,6 +5,9 @@ call plug#begin('~/.local/share/nvim/plugged')
 " NeoSolarized: True color n'at
 Plug 'iCyMind/NeoSolarized'
 
+" Base16: I'm sick of solarized
+Plug 'chriskempson/base16-vim'
+
 " Vim_relativity: swap line number style at will
 Plug 'kennykaye/vim-relativity'
 
